@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.094" height="13.062" viewBox="0 0 14.094 13.062">
+    <defs>
+        <clipPath id="clip-path">
+            <rect width="14.094" height="13.062" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="ic_upload" data-name="ic upload" clip-path="url(#clip-path)">
+        <g id="Grupo_6647" data-name="Grupo 6647">
+            <path id="Trazado_3012" data-name="Trazado 3012" d="M13.69,228.21a.4.4,0,0,0-.4.4v3.673a1.812,1.812,0,0,1-1.81,1.81H2.617a1.812,1.812,0,0,1-1.81-1.81v-3.733a.4.4,0,1,0-.808,0v3.733A2.62,2.62,0,0,0,2.617,234.9h8.86a2.62,2.62,0,0,0,2.617-2.617v-3.673A.4.4,0,0,0,13.69,228.21Z" transform="translate(0 -221.842)" fill="#123e81"/>
+            <path id="Trazado_3013" data-name="Trazado 3013" d="M137.012,20.507l1.878-1.878v8.193a.4.4,0,1,0,.808,0V18.629l1.878,1.878a.406.406,0,0,0,.284.12.389.389,0,0,0,.284-.12.4.4,0,0,0,0-.571l-2.566-2.566a.409.409,0,0,0-.284-.12.391.391,0,0,0-.284.12l-2.566,2.566a.4.4,0,0,0,.568.571Z" transform="translate(-132.247 -17.25)" fill="#123e81"/>
+        </g>
+    </g>
+</svg>

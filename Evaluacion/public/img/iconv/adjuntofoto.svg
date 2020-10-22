@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="95" viewBox="0 0 96 95">
+  <g id="Grupo_8489" data-name="Grupo 8489" transform="translate(-332 -307)">
+    <g id="Grupo_6652" data-name="Grupo 6652" transform="translate(332.331 307.141)">
+      <rect id="Rectángulo_1424" data-name="Rectángulo 1424" width="96" height="95" transform="translate(-0.331 -0.141)" fill="#f7f8fc"/>
+    </g>
+    <path id="Trazado_4138" data-name="Trazado 4138" d="M42,0A42,42,0,1,1,0,42,42,42,0,0,1,42,0Z" transform="translate(338 314)" opacity="0.6"/>
+    <text id="Adjuntar_fotografía" data-name="Adjuntar
+fotografía" transform="translate(379 363)" fill="#fff" font-size="10" font-family="OpenSans-Light, Open Sans" font-weight="300"><tspan x="-19.275" y="0">Adjuntar</tspan><tspan x="-21.421" y="12">fotografía</tspan></text>
+    <g id="Grupo_8478" data-name="Grupo 8478" transform="translate(367.508 329.417)">
+      <path id="Trazado_4135" data-name="Trazado 4135" d="M24.433,6h-24A.429.429,0,0,0,0,6.429v18.86a.429.429,0,0,0,.429.429h24a.429.429,0,0,0,.429-.429V6.429A.429.429,0,0,0,24.433,6ZM24,24.86H.857v-18H24Z" transform="translate(0 -6)" fill="#fff"/>
+      <path id="Trazado_4136" data-name="Trazado 4136" d="M12.818,21.774a2.387,2.387,0,1,0-2.387-2.387A2.39,2.39,0,0,0,12.818,21.774Zm0-3.917a1.53,1.53,0,1,1-1.53,1.53A1.532,1.532,0,0,1,12.818,17.857Z" transform="translate(-5.96 -12.285)" fill="#fff"/>
+      <path id="Trazado_4137" data-name="Trazado 4137" d="M6.428,32.859a.428.428,0,0,0,.283-.107L13.7,26.6l4.416,4.415a.429.429,0,0,0,.606-.606l-2.06-2.06,3.935-4.31,4.827,4.425a.429.429,0,0,0,.579-.632l-5.144-4.715A.442.442,0,0,0,20.554,23a.429.429,0,0,0-.3.139l-4.2,4.6-2.033-2.033a.429.429,0,0,0-.586-.019L6.145,32.109a.429.429,0,0,0,.283.751Z" transform="translate(-3.428 -15.713)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

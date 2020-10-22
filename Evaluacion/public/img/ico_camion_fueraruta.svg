@@ -1,0 +1,25 @@
+<svg id="Group_124" data-name="Group 124" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec3143;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="20" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Group_111" data-name="Group 111">
+    <g id="Group_110" data-name="Group 110" class="cls-2">
+      <path id="Path_410" data-name="Path 410" class="cls-1" d="M17.514.1H2.5A2.5,2.5,0,0,0,0,2.593V20.539a2.35,2.35,0,0,0,1.024,1.869A1.218,1.218,0,0,0,1,22.533v1.745a1.735,1.735,0,0,0,1.751,1.745h.5A1.735,1.735,0,0,0,5,24.277V23.031H15.012v1.246a1.735,1.735,0,0,0,1.751,1.745h.5a1.735,1.735,0,0,0,1.751-1.745V22.533a2.482,2.482,0,0,0,1-1.994V2.593A2.5,2.5,0,0,0,17.514.1ZM4,24.277a.74.74,0,0,1-.751.748h-.5A.74.74,0,0,1,2,24.277V22.906a2.525,2.525,0,0,0,.751.125H4v1.246Zm14.011,0a.74.74,0,0,1-.751.748h-.5a.74.74,0,0,1-.751-.748V23.031h1.5a3.31,3.31,0,0,0,.5-.047Zm1-3.739a1.5,1.5,0,0,1-1.5,1.5H2.752A1.757,1.757,0,0,1,1,20.539V16.052H19.015Zm0-5.484H1V5.085H19.015Zm0-10.967H1v-1.5A1.5,1.5,0,0,1,2.5,1.1H17.514a1.5,1.5,0,0,1,1.5,1.5Zm0,0" transform="translate(0 -0.092)"/>
+    </g>
+  </g>
+  <path id="Path_411" data-name="Path 411" class="cls-1" d="M70.953,25.7H67.7a.5.5,0,1,0,0,1h3.253a.5.5,0,1,0,0-1Zm0,0" transform="translate(-61.946 -23.698)"/>
+  <path id="Path_412" data-name="Path 412" class="cls-1" d="M138.851,25.7H138.1a.5.5,0,1,0,0,1h.751a.5.5,0,1,0,0-1Zm0,0" transform="translate(-126.842 -23.698)"/>
+  <path id="Path_413" data-name="Path 413" class="cls-1" d="M30.3,223.891a1.5,1.5,0,1,0-1.5-1.5,1.5,1.5,0,0,0,1.5,1.5Zm0-1.994a.5.5,0,1,1-.5.5.5.5,0,0,1,.5-.5Zm0,0" transform="translate(-26.548 -203.694)"/>
+  <path id="Path_414" data-name="Path 414" class="cls-1" d="M190.3,223.891a1.5,1.5,0,1,0-1.5-1.5,1.5,1.5,0,0,0,1.5,1.5Zm0-1.994a.5.5,0,1,1-.5.5.5.5,0,0,1,.5-.5Zm0,0" transform="translate(-174.038 -203.694)"/>
+</svg>

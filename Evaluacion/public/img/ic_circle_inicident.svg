@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 18 18">
+  <g id="Grupo_6832" data-name="Grupo 6832" transform="translate(-972.664 -301.285)">
+    <ellipse id="Elipse_2" data-name="Elipse 2" cx="3.931" cy="3.931" rx="3.931" ry="3.931" transform="translate(977.733 306.354)" fill="#cf000c"/>
+    <ellipse id="Elipse_2_copia" data-name="Elipse 2 copia" cx="2.862" cy="2.862" rx="2.862" ry="2.862" transform="translate(978.808 307.423)" fill="#eb1c24"/>
+    <g id="Elipse_2-2" data-name="Elipse 2" transform="translate(974.664 303.285)" fill="none" stroke="rgba(0,0,0,0.12)" stroke-width="2">
+      <ellipse cx="7" cy="7" rx="7" ry="7" stroke="none"/>
+      <ellipse cx="7" cy="7" rx="8" ry="8" fill="none"/>
+    </g>
+  </g>
+</svg>

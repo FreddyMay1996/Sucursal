@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 22.188 22.188">
+    <g id="action_btn" data-name="action btn" transform="translate(-1028.635 -537.635)">
+        <animate attributeName="fill" values="#ffffff;#000000" dur="1.5s" repeatCount="indefinite"/>
+        <circle id="Elipse_81" data-name="Elipse 81" cx="11.094" cy="11.094" r="7.094" transform="translate(1028.635 537.635)" fill="#fff" opacity="0.44"/>
+        <circle id="Elipse_82" data-name="Elipse 82" cx="5.377" cy="5.377" r="5.377" transform="translate(1034.352 543.352)" fill="#0779aa"/>
+        <path id="Trazado_2821" data-name="Trazado 2821" d="M252.278,208.8l1.247-2.983a.132.132,0,0,0-.014-.122.167.167,0,0,0-.109-.054H252.02l1.9-3.8h1.844l-1.6,2.509a.123.123,0,0,0,0,.136.143.143,0,0,0,.122.068h1.573Z" transform="translate(785.79 343.711)" fill="#fff"/>
+    </g>
+</svg>

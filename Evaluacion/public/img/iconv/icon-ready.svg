@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+    <defs>
+        <filter id="Elipse_65" x="0" y="0" width="33" height="33" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+            <feFlood flood-opacity="0.078"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <rect width="13" height="13" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="Grupo_6669" data-name="Grupo 6669" transform="translate(-1253.5 -1101.5)">
+        <g transform="matrix(1, 0, 0, 1, 1253.5, 1101.5)" filter="url(#Elipse_65)">
+            <circle id="Elipse_65-2" data-name="Elipse 65" cx="9" cy="9" r="9" transform="translate(7.5 4.5)" fill="#fff"/>
+        </g>
+        <g id="ic_checkmark" data-name="ic checkmark" transform="translate(1263.5 1108.5)" clip-path="url(#clip-path)">
+            <path id="Trazado_3048" data-name="Trazado 3048" d="M1101.243,3525.728l-6.741,6.74a.961.961,0,0,1-1.36,0l-2.552-2.551a.962.962,0,0,1,1.36-1.36l1.521,1.521a.5.5,0,0,0,.7,0l5.957-5.956a.893.893,0,0,1,.069-.062,6.473,6.473,0,1,0,1.045,1.669Z" transform="translate(-1088.771 -3521.795)" fill="#20dc9c"/>
+        </g>
+    </g>
+</svg>

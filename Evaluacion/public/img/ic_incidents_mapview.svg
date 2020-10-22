@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="32.506" viewBox="0 0 40 32.506">
+  <g id="Grupo_6888" data-name="Grupo 6888" transform="translate(-75.51 -269.243)">
+    <text id="Incidentes" transform="translate(95.51 299.749)" fill="#009fe3" font-size="8" font-family="OpenSans, Open Sans"><tspan x="-19.201" y="0">Incidentes</tspan></text>
+    <g id="Grupo_6714" data-name="Grupo 6714" transform="translate(-2421.991 -2967.402)">
+      <g id="Grupo_6711" data-name="Grupo 6711" transform="translate(2508.272 3236.645)">
+        <path id="Trazado_3027" data-name="Trazado 3027" d="M2523.68,3253.028h-12.4a2.965,2.965,0,0,1-2.606-1.513,3,3,0,0,1,.022-3.021l6.2-10.384a3.006,3.006,0,0,1,5.16,0l6.206,10.385a3,3,0,0,1,.023,3.021A2.966,2.966,0,0,1,2523.68,3253.028Zm-6.2-15.528a2.149,2.149,0,0,0-1.849,1.051l-6.2,10.377a2.149,2.149,0,0,0-.016,2.164,2.12,2.12,0,0,0,1.863,1.082h12.4a2.119,2.119,0,0,0,1.863-1.082,2.151,2.151,0,0,0-.017-2.167l-6.2-10.377A2.148,2.148,0,0,0,2517.478,3237.5Z" transform="translate(-2508.272 -3236.645)" fill="#009fe3"/>
+      </g>
+      <g id="Grupo_6712" data-name="Grupo 6712" transform="translate(2516.021 3239.579)">
+        <path id="Trazado_3028" data-name="Trazado 3028" d="M2609.462,3281.437a1.459,1.459,0,0,1-1.457-1.457v-4.119a1.457,1.457,0,1,1,2.914,0v4.119A1.459,1.459,0,0,1,2609.462,3281.437Zm0-6.178a.6.6,0,0,0-.6.6v4.119a.6.6,0,0,0,1.205,0v-4.119A.6.6,0,0,0,2609.462,3275.259Z" transform="translate(-2608.005 -3274.404)" fill="#009fe3"/>
+      </g>
+      <g id="Grupo_6713" data-name="Grupo 6713" transform="translate(2515.506 3247.415)">
+        <path id="Trazado_3029" data-name="Trazado 3029" d="M2603.35,3379.216a1.972,1.972,0,1,1,1.972-1.972A1.974,1.974,0,0,1,2603.35,3379.216Zm0-3.089a1.117,1.117,0,1,0,1.117,1.117A1.119,1.119,0,0,0,2603.35,3376.126Z" transform="translate(-2601.378 -3375.272)" fill="#009fe3"/>
+      </g>
+    </g>
+  </g>
+</svg>
